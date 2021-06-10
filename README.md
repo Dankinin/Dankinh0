@@ -1,6 +1,7 @@
 Hi, I’m @Dankinin.
-I’m interested in coding and stuff, even being a total noob at this...
-currently start to learn html or somethin'
+I’m interested in coding and stuff, even tho i'm a total noob at this...
+btw, i am currently start to learn html or something.
+
 How to reach me? Well, you can check it out my twitter! (@Dankinin)
 
 <!---
